@@ -1,4 +1,4 @@
-# Popular Deep Learning Methods
+# Popular Deep Learning Architectures
 
 - InceptionV3
 - ResNet50
