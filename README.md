@@ -1,4 +1,4 @@
-# Popular Deep Learning Architectures
+# Popular ConvNet Architectures
 
 - InceptionV3
 - ResNet50
